@@ -269,7 +269,7 @@ EXT_FACT_CAT = {
     ], 
 }
 
-INIT_DATE = datetime(2021, 9, 24)
+INIT_DATE = datetime(2021, 8,26)
 LAST_DATE = datetime(2021, 9, 26)
 
 

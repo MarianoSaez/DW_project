@@ -1,3 +1,32 @@
 idFactExt,descripcion,categoria
-0,Medidas politicas en contra de cryptos,politico
-1,Mejora en la tecnologia de semiconductores,tecnologia
+0,Emergencia hidrica,natural
+1,Emergencia hidrica,natural
+2,Emergencia hidrica,natural
+3,Apagon,natural
+4,Pais acepta crypto moneda como divisa,economica
+5,Medidas politicas a favor de cryptos,politico
+6,Medidas politicas a favor de cryptos,politico
+7,Medidas politicas en contra de cryptos,politico
+8,Apagon,natural
+9,Medidas politicas a favor de cryptos,politico
+10,Medidas politicas a favor de cryptos,politico
+11,Suba en el precio de tarjetas de video,tecnologia
+12,Pais rechaza crypto moneda como divisa,economica
+13,Medidas politicas a favor de cryptos,politico
+14,Bajada en el precio de tarjetas de video,tecnologia
+15,Tsunami,natural
+16,Crisis energetica,natural
+17,Medidas politicas en contra de cryptos,politico
+18,Post en Instagram,social
+19,Inversion en el proyecto,economica
+20,Medidas politicas en contra de cryptos,politico
+21,Emergencia hidrica,natural
+22,Permiten cobros con cryptos,economica
+23,Post en Instagram,social
+24,Emergencia hidrica,natural
+25,Terremoto,natural
+26,Medidas politicas a favor de cryptos,politico
+27,Prohiben cobros con cryptos,economica
+28,Permiten cobros con cryptos,economica
+29,Bajada en el precio de tarjetas de video,tecnologia
+30,Pais rechaza crypto moneda como divisa,economica
