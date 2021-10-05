@@ -1,32 +1,32 @@
-descripcion,categoria,fecha
-Emergencia hidrica,natural,21-09-2021
-Emergencia hidrica,natural,13-09-2021
-Emergencia hidrica,natural,07-09-2021
-Apagon,natural,12-09-2021
-Pais acepta crypto moneda como divisa,economica,20-09-2021
-Medidas politicas a favor de cryptos,politico,04-09-2021
-Medidas politicas a favor de cryptos,politico,29-08-2021
-Medidas politicas en contra de cryptos,politico,08-09-2021
-Apagon,natural,03-09-2021
-Medidas politicas a favor de cryptos,politico,30-08-2021
-Medidas politicas a favor de cryptos,politico,14-09-2021
-Suba en el precio de tarjetas de video,tecnologia,23-09-2021
-Pais rechaza crypto moneda como divisa,economica,24-09-2021
-Medidas politicas a favor de cryptos,politico,10-09-2021
-Bajada en el precio de tarjetas de video,tecnologia,31-08-2021
-Tsunami,natural,22-09-2021
-Crisis energetica,natural,16-09-2021
-Medidas politicas en contra de cryptos,politico,06-09-2021
-Post en Instagram,social,11-09-2021
-Inversion en el proyecto,economica,27-08-2021
-Medidas politicas en contra de cryptos,politico,28-08-2021
-Emergencia hidrica,natural,05-09-2021
-Permiten cobros con cryptos,economica,26-08-2021
-Post en Instagram,social,02-09-2021
-Emergencia hidrica,natural,25-09-2021
-Terremoto,natural,15-09-2021
-Medidas politicas a favor de cryptos,politico,09-09-2021
-Prohiben cobros con cryptos,economica,18-09-2021
-Permiten cobros con cryptos,economica,01-09-2021
-Bajada en el precio de tarjetas de video,tecnologia,17-09-2021
-Pais rechaza crypto moneda como divisa,economica,19-09-2021
+descripcion,categoria,subcategoria,fecha
+Entrevista con celebridad,social,mediatico,07-09-2021
+Entrevista con celebridad,social,mediatico,13-09-2021
+Entrevista con celebridad,social,mediatico,04-09-2021
+Medidas politicas en contra de cryptos,social,politico,09-09-2021
+Prohiben cobros con cryptos,social,economica,08-09-2021
+Apagon,cientifico,natural,28-08-2021
+Medidas politicas en contra de cryptos,social,politico,02-09-2021
+Permiten cobros con cryptos,social,economica,29-08-2021
+Prohiben cobros con cryptos,social,economica,06-09-2021
+Crisis energetica,cientifico,natural,21-09-2021
+Medidas politicas a favor de cryptos,social,politico,16-09-2021
+Entrevista con figura politica,social,politico,15-09-2021
+Post en Instagram,social,mediatico,26-08-2021
+Medidas politicas a favor de cryptos,social,politico,12-09-2021
+Crisis energetica,cientifico,natural,24-09-2021
+Emergencia hidrica,cientifico,natural,19-09-2021
+Mejora en la tecnologia de semiconductores,cientifico,tecnologia,18-09-2021
+Medidas politicas en contra de cryptos,social,politico,22-09-2021
+Medidas politicas en contra de cryptos,social,politico,11-09-2021
+Crisis energetica,cientifico,natural,27-08-2021
+Avance tecnologico en la mineria,cientifico,tecnologia,25-09-2021
+Pais acepta crypto moneda como divisa,social,economica,05-09-2021
+Critica de celebridad,social,mediatico,17-09-2021
+Medidas politicas en contra de cryptos,social,politico,01-09-2021
+Avance tecnologico en la mineria,cientifico,tecnologia,23-09-2021
+Apagon,cientifico,natural,03-09-2021
+Tweet de celebridad,social,mediatico,10-09-2021
+Apagon,cientifico,natural,20-09-2021
+Crisis energetica,cientifico,natural,30-08-2021
+Apagon,cientifico,natural,31-08-2021
+Bajada en el precio de tarjetas de video,cientifico,tecnologia,14-09-2021

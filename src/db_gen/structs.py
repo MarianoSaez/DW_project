@@ -236,37 +236,42 @@ COUNTRY = [
 PEOPLE = pd.read_csv("data/pantheon.tsv", sep='\t')["name"].to_list()
 
 EXT_FACT_CAT = {
-    "politico" : [
-        "Entrevista con figura politica",
-        "Medidas politicas a favor de cryptos",
-        "Medidas politicas en contra de cryptos",
-    ],
-    "social" : [
-        "Tweet de celebridad",
-        "Post en Instagram",
-        "Entrevista con celebridad",
-        "Critica de celebridad",
-    ],
-    "natural" : [
-        "Terremoto",
-        "Crisis energetica",
-        "Emergencia hidrica",
-        "Apagon",
-        "Tsunami",
-    ],
-    "economica" : [
-        "Pais acepta crypto moneda como divisa",
-        "Pais rechaza crypto moneda como divisa",
-        "Permiten cobros con cryptos",
-        "Prohiben cobros con cryptos",
-        "Inversion en el proyecto",
-    ],
-    "tecnologia" : [
-        "Avance tecnologico en la mineria",
-        "Mejora en la tecnologia de semiconductores",
-        "Suba en el precio de tarjetas de video",
-        "Bajada en el precio de tarjetas de video"
-    ], 
+    "social" : {    
+        "politico" : [
+            "Entrevista con figura politica",
+            "Medidas politicas a favor de cryptos",
+            "Medidas politicas en contra de cryptos",
+        ],
+        "mediatico" : [
+            "Tweet de celebridad",
+            "Post en Instagram",
+            "Entrevista con celebridad",
+            "Critica de celebridad",
+        ],
+        "economica" : [
+            "Pais acepta crypto moneda como divisa",
+            "Pais rechaza crypto moneda como divisa",
+            "Permiten cobros con cryptos",
+            "Prohiben cobros con cryptos",
+            "Inversion en el proyecto",
+        ]
+    },
+    "cientifico" : {
+        "natural" : [
+            "Terremoto",
+            "Crisis energetica",
+            "Emergencia hidrica",
+            "Apagon",
+            "Tsunami",
+        ],
+
+        "tecnologia" : [
+            "Avance tecnologico en la mineria",
+            "Mejora en la tecnologia de semiconductores",
+            "Suba en el precio de tarjetas de video",
+            "Bajada en el precio de tarjetas de video"
+        ],
+    }
 }
 
 INIT_DATE = datetime(2021, 8,26)

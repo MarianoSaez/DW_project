@@ -42,7 +42,7 @@ def genDimCrypto():
 def genDimFactExt():
     # Creando la dimension FactExt
     #   dimFactExt(idFactExt, nombre, categoria)
-    campos = ["descripcion", "categoria"]
+    campos = ["descripcion", "categoria", "subcategoria"]
     dfFactores.to_csv("dim/dimFactExt.csv", columns=campos, index=True, index_label="idFactExt")
 
     return dfFactores

@@ -1,32 +1,32 @@
-idFactExt,descripcion,categoria
-0,Emergencia hidrica,natural
-1,Emergencia hidrica,natural
-2,Emergencia hidrica,natural
-3,Apagon,natural
-4,Pais acepta crypto moneda como divisa,economica
-5,Medidas politicas a favor de cryptos,politico
-6,Medidas politicas a favor de cryptos,politico
-7,Medidas politicas en contra de cryptos,politico
-8,Apagon,natural
-9,Medidas politicas a favor de cryptos,politico
-10,Medidas politicas a favor de cryptos,politico
-11,Suba en el precio de tarjetas de video,tecnologia
-12,Pais rechaza crypto moneda como divisa,economica
-13,Medidas politicas a favor de cryptos,politico
-14,Bajada en el precio de tarjetas de video,tecnologia
-15,Tsunami,natural
-16,Crisis energetica,natural
-17,Medidas politicas en contra de cryptos,politico
-18,Post en Instagram,social
-19,Inversion en el proyecto,economica
-20,Medidas politicas en contra de cryptos,politico
-21,Emergencia hidrica,natural
-22,Permiten cobros con cryptos,economica
-23,Post en Instagram,social
-24,Emergencia hidrica,natural
-25,Terremoto,natural
-26,Medidas politicas a favor de cryptos,politico
-27,Prohiben cobros con cryptos,economica
-28,Permiten cobros con cryptos,economica
-29,Bajada en el precio de tarjetas de video,tecnologia
-30,Pais rechaza crypto moneda como divisa,economica
+idFactExt,descripcion,categoria,subcategoria
+0,Entrevista con celebridad,social,mediatico
+1,Entrevista con celebridad,social,mediatico
+2,Entrevista con celebridad,social,mediatico
+3,Medidas politicas en contra de cryptos,social,politico
+4,Prohiben cobros con cryptos,social,economica
+5,Apagon,cientifico,natural
+6,Medidas politicas en contra de cryptos,social,politico
+7,Permiten cobros con cryptos,social,economica
+8,Prohiben cobros con cryptos,social,economica
+9,Crisis energetica,cientifico,natural
+10,Medidas politicas a favor de cryptos,social,politico
+11,Entrevista con figura politica,social,politico
+12,Post en Instagram,social,mediatico
+13,Medidas politicas a favor de cryptos,social,politico
+14,Crisis energetica,cientifico,natural
+15,Emergencia hidrica,cientifico,natural
+16,Mejora en la tecnologia de semiconductores,cientifico,tecnologia
+17,Medidas politicas en contra de cryptos,social,politico
+18,Medidas politicas en contra de cryptos,social,politico
+19,Crisis energetica,cientifico,natural
+20,Avance tecnologico en la mineria,cientifico,tecnologia
+21,Pais acepta crypto moneda como divisa,social,economica
+22,Critica de celebridad,social,mediatico
+23,Medidas politicas en contra de cryptos,social,politico
+24,Avance tecnologico en la mineria,cientifico,tecnologia
+25,Apagon,cientifico,natural
+26,Tweet de celebridad,social,mediatico
+27,Apagon,cientifico,natural
+28,Crisis energetica,cientifico,natural
+29,Apagon,cientifico,natural
+30,Bajada en el precio de tarjetas de video,cientifico,tecnologia
